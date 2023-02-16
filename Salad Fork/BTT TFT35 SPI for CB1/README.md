@@ -3,6 +3,10 @@
 the screen shell is reversable.
 
 Requires: 
+
 4 heatset inserts
+
 4 8mm SHCS
+
 2 6mm SHCS
+
