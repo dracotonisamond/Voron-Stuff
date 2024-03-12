@@ -2,7 +2,7 @@
 
 5V for data and power
 
-JLCPCB Will do assembly, just specify 0.8mm PCB in green.
+JLCPCB will do assembly, just specify 0.8mm PCB in green.
 
 Use the files in Pinlight_Panel\Pinlight_ASSY for assembly.
 
