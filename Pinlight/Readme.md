@@ -3,6 +3,8 @@
 5V for data and power
 
 JLCPCB Will do assembly, just specify 0.8mm PCB in green.
+Use the files in Pinlight_Panel\Pinlight_ASSY for assembly.
+
 Originally designed for Inolux IN-PI33QBT but JLCPCB has SK6812MINIRGBW that will work too.
 
 ![image](https://github.com/dracotonisamond/Voron-Stuff/assets/5184392/874e4bb5-8948-4c48-9d47-3a8bc0c4dc26)
